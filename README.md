@@ -1,7 +1,7 @@
 # POO
 Programação Orientada ao Objeto
 
-Repositório com exercício de fixação dos conceitos de Módulos, Herança, Construtor, get e set, Classe Abstrata, Polimorfismo em Javascript executando no Node.
+Exercício de fixação dos conceitos de Módulos, Herança, Construtor, get e set, Classe Abstrata, Polimorfismo em Javascript executando no Node.
 Essa aplicação implementa um sistema bancário onde são criadas contas, com dados do saldo, agência e clientes, e métodos para movimentações financeiras. 
 Para executar a aplicação, usar o comando "node index.js".
 
