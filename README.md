@@ -3,6 +3,7 @@ Programação Orientada ao Objeto
 
 Repositório com exercício de fixação dos conceitos de Módulos, Herança, Construtor, get e set, Classe Abstrata, Polimorfismo em Javascript executando no Node.
 Essa aplicação implementa um sistema bancário onde são criadas contas, com dados do saldo, agência e clientes, e métodos para movimentações financeiras. 
+Para executar a aplicação, usar o comando "node index.js".
 
 Módulos:
 O uso de **módulos** é essencial para a organização no desenvolvimento e manutenção de uma aplicação. Para que se tenha um código limpo, organizado e coerente, o código é dividido em diferentes arquivos .js, cada um contendo uma funcionalidade da aplicação. O comando "import" é usado para importar as classes e métodos de outros módulos para serem usados no módulo que se queira usar. O módulo principal da aplicação, onde o programa deve começar a rodar é denominado "index.js".
